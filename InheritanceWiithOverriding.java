@@ -16,9 +16,11 @@ class Employee {
 class Manager extends Employee {
 
     Manager(String name, double salary) {
-        super(name, salary);
+        super(name, salary);               // Using super keyword we can access parent class members
     }
 
+
+    // Method Overriding
     @Override
     void work() {
         System.out.println("Manager is managing the team! Manager Details: Name- "
