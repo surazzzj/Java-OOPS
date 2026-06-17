@@ -52,7 +52,7 @@ Constructors are special methods used to initialize objects.
 
 - Java
 - Object-Oriented Programming Principles
-- VS Code / IntelliJ IDEA
+- VS Code / Eclipse
 
 ---
 
